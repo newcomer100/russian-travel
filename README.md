@@ -1,23 +1,57 @@
-# Проект: Путешествие по России
+# Путешествие по России. Проект для Яндекс.Практикума
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+---
 
-**Интро**
+Адаптивный одностраничный сайт, созданный по макету Figma. Сайт оптимизирован для просмотра на экранах от 320 пикселей до бесконечности.
+При вёрстке использован подход Desktop First.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+---
 
-**Figma**
+## Стек
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- HTML
+- CSS
 
-**Картинки**
+## Реализация
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+- Grid Layout
+- Flexbox-вёрстка
+- Медиазапросы
+- Использование относительных величин при указании размеров блоков и элементов
 
-Удачи!
+## Планы по доработке
+- Реализовать добавление элементов в DOM с помощью JavaScript 
+- Реализовать переключение языков с помощью JavaScript
+
+## Ссылка на сайт:
+
+https://github.com/newcomer100/russian-travel
+
+# Project 3: Travel across russia
+
+---
+
+The adaptive single page website, developed with a Figma prototype. The webpage is optimized for screen sizes of 320px wide to infinity.
+The desktop-first approach is used.
+
+## Stack
+
+- HTML
+- CSS
+
+---
+
+## Realization
+
+- Grid Layout
+- Flexbox
+- Media queries
+- Relative units
+
+## Future improvements
+- To use JavaScript for adding elements to the DOM 
+- To add language switcher
+
+## URL:
+
+https://github.com/newcomer100/russian-travel

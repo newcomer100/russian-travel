@@ -4,12 +4,11 @@
     align-items: center;
     flex-direction: column;
     justify-content: center;
-      min-height: 100%;
-      background-image: url(../../../images/cover-trains.jpg);
-      background-size: 100%;
-      background-repeat: no-repeat;
-      text-decoration-line: none;
-    }
+    background-image: url(../../../images/cover-trains.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-decoration-line: none;
+  }
   
     .cover__link::before {
       background-color: #2a2c2f;
