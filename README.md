@@ -25,7 +25,7 @@
 
 ## Ссылка на сайт:
 
-https://github.com/newcomer100/russian-travel
+https://github.com/newcomer100/russian-travel/index.html
 
 # Project 3: Travel across russia
 
@@ -54,4 +54,4 @@ The desktop-first approach is used.
 
 ## URL:
 
-https://github.com/newcomer100/russian-travel
+https://github.com/newcomer100/russian-travel/index.html
