@@ -1,12 +1,10 @@
 .footer__menu {
   display: flex;
-  list-style-type: none;
 }
 
 @media screen and (max-width: 500px) {
   .footer__menu {
     flex-wrap: wrap;
     flex-direction: column;
-
   }
-}
+} 
