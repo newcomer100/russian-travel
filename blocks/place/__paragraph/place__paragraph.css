@@ -1,5 +1,5 @@
 .place__paragraph {
-  max-width: 484px;
+  /* max-width: 484px; */
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -8,10 +8,9 @@
   margin: 0;
   padding-bottom: 26px;
   flex-basis: 50%;
-  margin-left: 32px;
 }
-
-.place__paragraph:last-child {
+  
+  .place__paragraph:last-child {
   padding-bottom: 0;
 }
 
@@ -19,30 +18,26 @@
   .place__paragraph {
     max-width: 456px;
   }
-}
+} */
 
-@media screen and (max-width: 768px) {
+/@media screen and (max-width: 768px) {
   .place__paragraph {
-    max-width: 352px;
     font-size: 16px;
-    padding-bottom: 25px;
-    margin-left: 28px;
   }
-}
+} 
 
-@media screen and (max-width: 650px) {
+/* @media screen and (max-width: 767px) {
   .place__paragraph {
+    max-width: 750px;
     margin-left: auto;
     padding-bottom: 25px;
   }
-}
+}  */
 
-
-
-@media screen and (max-width: 362px) {
+/* @media screen and (max-width: 425px) {
   .place__paragraph {
     max-width: 288px;
     margin-left: 16px;
   }
-}
+} */
 

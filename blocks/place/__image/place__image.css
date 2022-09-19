@@ -1,28 +1,38 @@
 .place__image {
   max-width: 460px;
   object-fit: contain;
+  margin-right: 40px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1100px) {
   .place__image {
     max-width: 440px;
+    margin-right: 32px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
+  .place__image {
+    max-width: 390px;
+  }
+}
+
+@media screen and (max-width: 795px) {
   .place__image {
     max-width: 340px;
   }
 }
 
-@media screen and (max-width: 650px) {
+
+/* @media screen and (max-width: 500px) {
   .place__image {
     margin-bottom: 32px;
+    max-width: 320px;
   }
-}
+} */
 
 
-@media screen and (max-width: 362px) {
+@media screen and (max-width: 425px) {
   .place__image {
     max-width: 320px;
   }

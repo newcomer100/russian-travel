@@ -1,6 +1,5 @@
 .lead__title {
   max-width: 720px;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
@@ -18,7 +17,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .lead__title {
     padding-bottom: 16px;
   }
