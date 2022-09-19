@@ -22,7 +22,7 @@
       }
     }
 
-  @media screen and (max-width: 425x) {
+  @media screen and (max-width: 425px) {
       .header {
           margin-right: 16px;
           margin-left: 16px;
