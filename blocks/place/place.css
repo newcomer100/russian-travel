@@ -11,31 +11,17 @@
     padding-bottom: 0;
   }
 
-   @media screen and (max-width: 982px) {
-    .place {
-      .place:last-child {
-        max-height: 640px;
-      }
-    }
-  } 
-
-    @media screen and (max-width: 767px) {
+  @media screen and (max-width: 700px) {
     .place {
       display: flex;
       flex-direction: column;
       flex-basis: auto;
-      align-items: flex-start;
+      align-items: center;
       flex-wrap: wrap;
     }
   } 
   
-  /* @media screen and (max-width: 425px) {
-    .place {
-      padding-bottom: 50px;
-    }
-  } */
- 
-  @media screen and (max-width: 362px) {
+    @media screen and (max-width: 362px) {
     .place {
       padding-bottom: 50px;
     }

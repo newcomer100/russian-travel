@@ -2,13 +2,11 @@
   max-width: 456px;
   padding-bottom: 48px;
   margin-top: auto;
-  margin-left: 32px;
 }
 
 @media screen and (max-width: 768px) {
   .place__website {
     max-width: 352px;
-    margin-left: 28px;
   }
 }
 
@@ -18,7 +16,5 @@
     max-width: 288px;
     margin-bottom: 32px;
     margin-top: 0;
-    margin-left: 16px;
-
   }
 }
