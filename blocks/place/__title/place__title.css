@@ -23,7 +23,11 @@
       font-size: 32px;
       line-height: 109%;
       padding-bottom: 32px;
-      margin-left: 16px;
   }
 }
   
+@media screen and (max-width: 425px) {
+  .place__title {
+    padding-left: 16px;
+  }
+}

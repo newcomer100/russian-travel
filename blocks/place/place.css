@@ -21,8 +21,9 @@
     }
   } 
   
-    @media screen and (max-width: 362px) {
+    @media screen and (max-width: 425px) {
     .place {
       padding-bottom: 50px;
+      align-items: flex-start;
     }
   }

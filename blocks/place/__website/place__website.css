@@ -18,3 +18,9 @@
     margin-top: 0;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .place__website {
+    padding-left: 16px;
+  }
+}

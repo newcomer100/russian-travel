@@ -2,14 +2,14 @@
   margin: 0;
   font-style: normal;
   font-weight: 900;
-  font-size: 96px;
-  line-height: 104%;
+  font-size: 54px;
+  line-height: 107%;
   color: #ffffff;
 }
   
 @media screen and (max-width: 425px) {
   .intro__title {
-    font-size: 40px;
-    line-height: 110%;
+    font-size: 32px;
+    line-height: 109%;
   }
 }

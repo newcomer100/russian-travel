@@ -32,9 +32,3 @@
     padding-top: 64px;
   }
 }
-
-@media screen and (max-width: 500px) {
-  .footer {
-    max-height: 310px;
-  }
-}
