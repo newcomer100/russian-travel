@@ -26,9 +26,10 @@
   }
 } 
 
-@media screen and (max-width: 7000px) {
+@media screen and (max-width: 700px) {
   .place__paragraph {
   padding-top: 32px;
+  padding-bottom: 0;
 }
 } 
 
