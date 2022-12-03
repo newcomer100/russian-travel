@@ -8,34 +8,34 @@
   padding-bottom: 26px;
   flex-basis: 50%;
 }
-  
+
 .place__paragraph:last-child {
   padding-bottom: 0;
 }
 
-  @media screen and (max-width: 1024px) {
-   .place__paragraph {
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
     max-width: 456px;
   }
-} 
+}
 
-  @media screen and (max-width: 768px) {
-    .place__paragraph {
+@media screen and (max-width: 768px) {
+  .place__paragraph {
     font-size: 16px;
     line-height: 163%;
   }
-} 
+}
 
 @media screen and (max-width: 700px) {
-    .place__paragraph {
+  .place__paragraph {
     padding-top: 32px;
     padding-bottom: 0;
   }
-} 
+}
 
 @media screen and (max-width: 362px) {
-    .place__paragraph {
+  .place__paragraph {
     padding-left: 16px;
     padding-right: 16px;
   }
-} 
+}

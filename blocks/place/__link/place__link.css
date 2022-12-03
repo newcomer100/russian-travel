@@ -1,12 +1,13 @@
 .place__link {
-    margin: 0;
-    color: #fff;
-    font-size: 18px;
-    text-decoration: none;
-    border-bottom: 1px solid #fff;
-  }
-  
-  .place__link:hover {
-    opacity: 0.8;
-    transition: ease-in-out 0.3s;
-  }
+  margin: 0;
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+  line-height: 22px;
+}
+
+.place__link:hover {
+  opacity: 0.8;
+  transition: ease-in-out 0.3s;
+}

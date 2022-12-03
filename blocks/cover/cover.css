@@ -3,11 +3,10 @@
   position: relative;
   margin: 0 auto;
   aspect-ratio: 320 / 200;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin-left: 0;
   }
-  
-  @media screen and (max-width: 1024px) {
-    .cover {
-      margin-left: 0;
-    }
-  }
-  
+}
